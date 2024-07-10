@@ -13,7 +13,7 @@ namespace Day1Demo1
 
         public void LocalVariableDemo()
         {
-            intCount = 200;
+            intCount = 300;
             Console.WriteLine("Count: {0}", count);
         }
     }
