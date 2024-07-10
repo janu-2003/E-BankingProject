@@ -1,0 +1,5 @@
+ID: 1   PatientName: John   Age: 22   DOB: 02/04/2002   Address: Hyd   Referring Doctor: Pranav   AdmitDate: 01-02-2024 00:00:00   Disease: Cough   Fee: 500
+ID: 1   PatientName: John   Age: 22   DOB: 01/02/2002   Address: hyd   Referring Doctor: jenfjdoe   AdmitDate: 01-02-2023 00:00:00   Disease: djnfn   Fee: 500
+1, John, 24, 01/02/2000, wdvc, wedvca, 01-02-2024 00:00:00, dfvsc, 500
+1, JOhn, 2, 01/01/2022, wedaf, adfc, 02-02-2024 00:00:00, sda, 500
+1, Anand, 24, 01/04/2000, Hyd, Pranav, 02-03-2024 00:00:00, Cough, 500
